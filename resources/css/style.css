@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+}
+h1 {
+  background-image: url("../images/pattern.jpeg");
+  color: khaki;
+  font-family: Helvetica, sans-serif;
+  font-size: 100px;
+  font-weight: bold;
+  text-align: center;
+}
+
+h2 {
+  font-family: Helvetica, sans-serif;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+#medium_spring_green {
+  background-color: mediumspringgreen;
+}
+
+#light_coral {
+  background-color: lightcoral;
+}
+
+#sky_blue {
+  background-color: skyblue;
+}
+
+span {
+  font-family: Helvetica, sans-serif;
+  font-weight: bold;
+  color: blue;
+}
+
+p {
+  font-family: Helvetica, sans-serif;
+}
